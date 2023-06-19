@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LNANGA
-- 👀 I’m interested in Data Science, AI/ML for Finance, TechEduc, DLT, Token Economy, Bitcoin
-- 🌱 I’m currently learning Data Science (OU) & Front-End dev (OC)
+- 👀 I’m interested in Data Science, AI/ML/LLM for Finance, TechEduc, CyberSec & Competitive Intel.
+- 🌱 I’m currently learning MSIE42, MBA Gen. & CyberSec
 - 💞️ I’m looking to collaborate on the above topics
 - 📫 How to reach me :-)
 
